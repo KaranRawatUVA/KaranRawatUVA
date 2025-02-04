@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me 
 
-<!--
-**KaranRawatUVA/KaranRawatUVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, my is Karan Rawat and I am a UVA student! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Spotify data visualization project 
+- 🌱 I’m currently learning about Data Science (Completing the UVA minor)
+- 👯 I’m looking to collaborate on a large database
+- 🤔 I’m looking for help with how to use the Spotify API
+- 💬 Ask me about how to use Pandas
+- 📫 How to reach me: Through email! 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I went to the NFC Championship Game!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
